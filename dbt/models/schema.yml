@@ -1,0 +1,33 @@
+version: 2
+
+# Example dbt tests only. These are a handful of examples, NOT a claim
+# of 40 tests, and they have not been run against production data.
+models:
+  - name: stg_311
+    columns:
+      - name: unique_key
+        tests:
+          - unique
+          - not_null
+      - name: created_date
+        tests:
+          - not_null
+      - name: complaint_type
+        tests:
+          - not_null
+      - name: borough
+        tests:
+          - accepted_values:
+              values: ['Manhattan', 'Brooklyn', 'Queens', 'Bronx', 'Staten Island']
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['Closed', 'Open', 'In Progress']
+  - name: mart_311_by_borough
+    columns:
+      - name: borough
+        tests:
+          - not_null
+      - name: created_month
+        tests:
+          - not_null
