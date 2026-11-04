@@ -1,0 +1,2002 @@
+[
+  {
+    "unique_key": "10000000",
+    "created_date": "2026-01-07 23:17:00",
+    "closed_date": "2026-01-10 23:17:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Heat",
+    "borough": "Manhattan",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000001",
+    "created_date": "2026-01-23 18:27:00",
+    "closed_date": "2026-01-23 18:27:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Brooklyn",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000002",
+    "created_date": "2026-05-10 19:01:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000003",
+    "created_date": "2026-02-26 14:37:00",
+    "closed_date": "2026-03-10 14:37:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000004",
+    "created_date": "2026-03-29 08:09:00",
+    "closed_date": "2026-04-10 08:09:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000005",
+    "created_date": "2026-04-08 03:22:00",
+    "closed_date": "2026-04-17 03:22:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Manhattan",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000006",
+    "created_date": "2026-05-18 03:59:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000007",
+    "created_date": "2026-06-10 19:56:00",
+    "closed_date": "2026-06-19 19:56:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Double Parked",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000008",
+    "created_date": "2026-06-19 07:49:00",
+    "closed_date": "2026-06-20 07:49:00",
+    "complaint_type": "Noise",
+    "descriptor": "Loud Music/Party",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000009",
+    "created_date": "2026-03-13 14:40:00",
+    "closed_date": "2026-03-15 14:40:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000010",
+    "created_date": "2026-06-21 08:44:00",
+    "closed_date": "2026-06-30 08:44:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000011",
+    "created_date": "2026-03-04 05:29:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000012",
+    "created_date": "2026-06-25 10:53:00",
+    "closed_date": "2026-06-28 10:53:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000013",
+    "created_date": "2026-03-10 02:13:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000014",
+    "created_date": "2026-04-12 20:29:00",
+    "closed_date": "2026-04-16 20:29:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000015",
+    "created_date": "2026-05-18 08:47:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000016",
+    "created_date": "2026-04-03 07:08:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000017",
+    "created_date": "2026-01-29 04:40:00",
+    "closed_date": "2026-02-10 04:40:00",
+    "complaint_type": "Noise",
+    "descriptor": "Banging/Pounding",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000018",
+    "created_date": "2026-01-17 12:24:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Staten Island",
+    "agency": "DSNY",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000019",
+    "created_date": "2026-05-22 00:43:00",
+    "closed_date": "2026-06-01 00:43:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000020",
+    "created_date": "2026-01-29 09:27:00",
+    "closed_date": "2026-02-05 09:27:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Out",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000021",
+    "created_date": "2026-02-15 16:58:00",
+    "closed_date": "2026-02-28 16:58:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000022",
+    "created_date": "2026-02-20 04:23:00",
+    "closed_date": "2026-02-28 04:23:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Recycling",
+    "borough": "Staten Island",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000023",
+    "created_date": "2026-05-06 00:07:00",
+    "closed_date": "2026-05-20 00:07:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000024",
+    "created_date": "2026-03-03 18:05:00",
+    "closed_date": "2026-03-14 18:05:00",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000025",
+    "created_date": "2026-02-02 04:42:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000026",
+    "created_date": "2026-06-05 13:13:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000027",
+    "created_date": "2026-06-21 20:23:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000028",
+    "created_date": "2026-02-27 02:21:00",
+    "closed_date": "2026-03-08 02:21:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000029",
+    "created_date": "2026-02-26 00:04:00",
+    "closed_date": "2026-03-01 00:04:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Recycling",
+    "borough": "Manhattan",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000030",
+    "created_date": "2026-01-19 16:15:00",
+    "closed_date": "2026-01-29 16:15:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000031",
+    "created_date": "2026-02-03 23:59:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Brooklyn",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000032",
+    "created_date": "2026-04-15 06:06:00",
+    "closed_date": "2026-04-25 06:06:00",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000033",
+    "created_date": "2026-04-16 14:55:00",
+    "closed_date": "2026-04-26 14:55:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000034",
+    "created_date": "2026-03-28 03:15:00",
+    "closed_date": "2026-03-31 03:15:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000035",
+    "created_date": "2026-02-16 08:29:00",
+    "closed_date": "2026-03-01 08:29:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000036",
+    "created_date": "2026-01-26 01:41:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000037",
+    "created_date": "2026-02-12 13:31:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Bronx",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000038",
+    "created_date": "2026-02-12 12:00:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000039",
+    "created_date": "2026-04-19 22:46:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000040",
+    "created_date": "2026-02-18 09:13:00",
+    "closed_date": "2026-02-27 09:13:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000041",
+    "created_date": "2026-01-13 18:30:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Banging/Pounding",
+    "borough": "Brooklyn",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000042",
+    "created_date": "2026-05-11 02:54:00",
+    "closed_date": "2026-05-12 02:54:00",
+    "complaint_type": "Noise",
+    "descriptor": "Banging/Pounding",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000043",
+    "created_date": "2026-04-14 03:56:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000044",
+    "created_date": "2026-01-11 19:05:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Queens",
+    "agency": "DSNY",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000045",
+    "created_date": "2026-06-21 22:20:00",
+    "closed_date": "2026-06-25 22:20:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000046",
+    "created_date": "2026-04-28 10:59:00",
+    "closed_date": "2026-04-28 10:59:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Blocked Hydrant",
+    "borough": "Staten Island",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000047",
+    "created_date": "2026-01-26 02:34:00",
+    "closed_date": "2026-02-03 02:34:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Brooklyn",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000048",
+    "created_date": "2026-01-18 07:23:00",
+    "closed_date": "2026-01-20 07:23:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000049",
+    "created_date": "2026-06-06 20:33:00",
+    "closed_date": "2026-06-16 20:33:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000050",
+    "created_date": "2026-02-04 08:07:00",
+    "closed_date": "2026-02-15 08:07:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Brooklyn",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000051",
+    "created_date": "2026-03-14 19:13:00",
+    "closed_date": "2026-03-17 19:13:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000052",
+    "created_date": "2026-05-06 08:57:00",
+    "closed_date": "2026-05-07 08:57:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000053",
+    "created_date": "2026-01-01 10:49:00",
+    "closed_date": "2026-01-11 10:49:00",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Brooklyn",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000054",
+    "created_date": "2026-05-22 22:27:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000055",
+    "created_date": "2026-06-26 04:34:00",
+    "closed_date": "2026-07-09 04:34:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000056",
+    "created_date": "2026-02-07 13:08:00",
+    "closed_date": "2026-02-11 13:08:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000057",
+    "created_date": "2026-02-23 21:15:00",
+    "closed_date": "2026-02-28 21:15:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000058",
+    "created_date": "2026-03-02 05:51:00",
+    "closed_date": "2026-03-16 05:51:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Partially Blocked Driveway",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000059",
+    "created_date": "2026-03-27 13:51:00",
+    "closed_date": "2026-03-31 13:51:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000060",
+    "created_date": "2026-01-10 15:14:00",
+    "closed_date": "2026-01-23 15:14:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000061",
+    "created_date": "2026-02-28 07:01:00",
+    "closed_date": "2026-03-06 07:01:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Blocked Hydrant",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000062",
+    "created_date": "2026-03-13 11:41:00",
+    "closed_date": "",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000063",
+    "created_date": "2026-01-08 03:56:00",
+    "closed_date": "2026-01-10 03:56:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000064",
+    "created_date": "2026-06-02 13:22:00",
+    "closed_date": "2026-06-08 13:22:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000065",
+    "created_date": "2026-04-09 18:12:00",
+    "closed_date": "2026-04-09 18:12:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Bronx",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000066",
+    "created_date": "2026-05-14 17:43:00",
+    "closed_date": "2026-05-19 17:43:00",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000067",
+    "created_date": "2026-06-09 10:42:00",
+    "closed_date": "2026-06-20 10:42:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000068",
+    "created_date": "2026-06-20 13:20:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000069",
+    "created_date": "2026-02-02 06:26:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000070",
+    "created_date": "2026-03-19 12:35:00",
+    "closed_date": "2026-03-23 12:35:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Brooklyn",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000071",
+    "created_date": "2026-05-29 19:41:00",
+    "closed_date": "2026-06-05 19:41:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000072",
+    "created_date": "2026-05-11 15:50:00",
+    "closed_date": "2026-05-21 15:50:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000073",
+    "created_date": "2026-06-19 20:39:00",
+    "closed_date": "2026-06-20 20:39:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000074",
+    "created_date": "2026-02-20 04:01:00",
+    "closed_date": "2026-02-23 04:01:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000075",
+    "created_date": "2026-04-27 13:56:00",
+    "closed_date": "",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Heat",
+    "borough": "Bronx",
+    "agency": "HPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000076",
+    "created_date": "2026-04-13 07:09:00",
+    "closed_date": "2026-04-27 07:09:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000077",
+    "created_date": "2026-02-15 22:33:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000078",
+    "created_date": "2026-02-01 14:08:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000079",
+    "created_date": "2026-06-02 10:48:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000080",
+    "created_date": "2026-02-10 23:55:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000081",
+    "created_date": "2026-06-13 08:49:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000082",
+    "created_date": "2026-04-23 02:45:00",
+    "closed_date": "2026-04-26 02:45:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Blocked Hydrant",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000083",
+    "created_date": "2026-05-19 02:08:00",
+    "closed_date": "2026-05-22 02:08:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000084",
+    "created_date": "2026-01-17 13:26:00",
+    "closed_date": "2026-01-25 13:26:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Bronx",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000085",
+    "created_date": "2026-02-22 13:24:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Banging/Pounding",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000086",
+    "created_date": "2026-04-08 15:00:00",
+    "closed_date": "2026-04-12 15:00:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Bronx",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000087",
+    "created_date": "2026-05-20 19:57:00",
+    "closed_date": "2026-05-27 19:57:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000088",
+    "created_date": "2026-05-05 00:24:00",
+    "closed_date": "2026-05-15 00:24:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000089",
+    "created_date": "2026-02-02 19:34:00",
+    "closed_date": "2026-02-16 19:34:00",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000090",
+    "created_date": "2026-06-19 00:05:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Recycling",
+    "borough": "Bronx",
+    "agency": "DSNY",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000091",
+    "created_date": "2026-01-13 08:24:00",
+    "closed_date": "2026-01-16 08:24:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Partially Blocked Driveway",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000092",
+    "created_date": "2026-04-08 08:48:00",
+    "closed_date": "",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000093",
+    "created_date": "2026-01-05 23:34:00",
+    "closed_date": "2026-01-10 23:34:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000094",
+    "created_date": "2026-01-08 07:12:00",
+    "closed_date": "2026-01-17 07:12:00",
+    "complaint_type": "Noise",
+    "descriptor": "Loud Music/Party",
+    "borough": "Brooklyn",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000095",
+    "created_date": "2026-05-02 21:07:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000096",
+    "created_date": "2026-04-05 05:38:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000097",
+    "created_date": "2026-03-21 03:37:00",
+    "closed_date": "2026-04-04 03:37:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Partially Blocked Driveway",
+    "borough": "Staten Island",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000098",
+    "created_date": "2026-04-12 22:12:00",
+    "closed_date": "2026-04-21 22:12:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000099",
+    "created_date": "2026-06-25 19:51:00",
+    "closed_date": "2026-07-07 19:51:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000100",
+    "created_date": "2026-05-17 13:42:00",
+    "closed_date": "2026-05-18 13:42:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000101",
+    "created_date": "2026-05-06 03:27:00",
+    "closed_date": "2026-05-16 03:27:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000102",
+    "created_date": "2026-02-15 23:33:00",
+    "closed_date": "2026-02-24 23:33:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000103",
+    "created_date": "2026-06-01 08:20:00",
+    "closed_date": "2026-06-14 08:20:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000104",
+    "created_date": "2026-03-04 14:36:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000105",
+    "created_date": "2026-05-07 10:11:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Loud Music/Party",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000106",
+    "created_date": "2026-03-29 08:56:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Parking in Bike Lane",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000107",
+    "created_date": "2026-01-03 16:12:00",
+    "closed_date": "2026-01-06 16:12:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Bronx",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000108",
+    "created_date": "2026-03-03 22:30:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000109",
+    "created_date": "2026-03-17 07:25:00",
+    "closed_date": "2026-03-21 07:25:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000110",
+    "created_date": "2026-05-02 17:33:00",
+    "closed_date": "2026-05-08 17:33:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000111",
+    "created_date": "2026-03-11 09:16:00",
+    "closed_date": "2026-03-12 09:16:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000112",
+    "created_date": "2026-05-18 22:11:00",
+    "closed_date": "2026-05-21 22:11:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Bronx",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000113",
+    "created_date": "2026-05-31 16:38:00",
+    "closed_date": "2026-06-01 16:38:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Double Parked",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000114",
+    "created_date": "2026-04-03 05:19:00",
+    "closed_date": "2026-04-14 05:19:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000115",
+    "created_date": "2026-01-12 01:35:00",
+    "closed_date": "2026-01-23 01:35:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Double Parked",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000116",
+    "created_date": "2026-01-04 18:18:00",
+    "closed_date": "",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Bronx",
+    "agency": "HPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000117",
+    "created_date": "2026-02-17 01:16:00",
+    "closed_date": "",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Out",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000118",
+    "created_date": "2026-05-06 02:36:00",
+    "closed_date": "2026-05-08 02:36:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000119",
+    "created_date": "2026-01-22 07:07:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Blocked Hydrant",
+    "borough": "Staten Island",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000120",
+    "created_date": "2026-06-08 07:49:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Bronx",
+    "agency": "DSNY",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000121",
+    "created_date": "2026-03-18 18:27:00",
+    "closed_date": "2026-03-27 18:27:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000122",
+    "created_date": "2026-02-23 20:13:00",
+    "closed_date": "2026-03-05 20:13:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Heat",
+    "borough": "Brooklyn",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000123",
+    "created_date": "2026-02-14 17:04:00",
+    "closed_date": "2026-02-14 17:04:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Bronx",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000124",
+    "created_date": "2026-05-01 09:02:00",
+    "closed_date": "2026-05-05 09:02:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Bronx",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000125",
+    "created_date": "2026-06-25 07:59:00",
+    "closed_date": "2026-07-07 07:59:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000126",
+    "created_date": "2026-04-19 03:34:00",
+    "closed_date": "2026-04-29 03:34:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000127",
+    "created_date": "2026-01-19 01:10:00",
+    "closed_date": "2026-01-28 01:10:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Partially Blocked Driveway",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000128",
+    "created_date": "2026-04-30 22:19:00",
+    "closed_date": "",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000129",
+    "created_date": "2026-05-07 14:05:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Bronx",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000130",
+    "created_date": "2026-06-04 08:01:00",
+    "closed_date": "2026-06-07 08:01:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Out",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000131",
+    "created_date": "2026-01-11 05:30:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Queens",
+    "agency": "DSNY",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000132",
+    "created_date": "2026-05-30 13:40:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000133",
+    "created_date": "2026-04-15 10:20:00",
+    "closed_date": "2026-04-28 10:20:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Out",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000134",
+    "created_date": "2026-06-27 15:18:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000135",
+    "created_date": "2026-03-22 08:20:00",
+    "closed_date": "2026-04-03 08:20:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Staten Island",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000136",
+    "created_date": "2026-06-18 17:29:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Loud Music/Party",
+    "borough": "Brooklyn",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000137",
+    "created_date": "2026-04-03 19:48:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000138",
+    "created_date": "2026-03-10 17:08:00",
+    "closed_date": "2026-03-17 17:08:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Bronx",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000139",
+    "created_date": "2026-01-08 20:38:00",
+    "closed_date": "2026-01-19 20:38:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Heat",
+    "borough": "Queens",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000140",
+    "created_date": "2026-01-04 17:26:00",
+    "closed_date": "2026-01-07 17:26:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Bronx",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000141",
+    "created_date": "2026-06-15 04:31:00",
+    "closed_date": "2026-06-23 04:31:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Queens",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000142",
+    "created_date": "2026-05-04 15:15:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000143",
+    "created_date": "2026-06-03 16:47:00",
+    "closed_date": "2026-06-16 16:47:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000144",
+    "created_date": "2026-03-29 16:17:00",
+    "closed_date": "2026-04-02 16:17:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000145",
+    "created_date": "2026-06-18 15:55:00",
+    "closed_date": "2026-06-25 15:55:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Queens",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000146",
+    "created_date": "2026-05-22 17:24:00",
+    "closed_date": "",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000147",
+    "created_date": "2026-05-27 12:14:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Pothole",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000148",
+    "created_date": "2026-04-08 12:42:00",
+    "closed_date": "2026-04-15 12:42:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000149",
+    "created_date": "2026-06-01 10:55:00",
+    "closed_date": "2026-06-14 10:55:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000150",
+    "created_date": "2026-04-27 00:46:00",
+    "closed_date": "2026-05-03 00:46:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Manhattan",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000151",
+    "created_date": "2026-03-09 10:39:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000152",
+    "created_date": "2026-04-08 10:40:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Staten Island",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000153",
+    "created_date": "2026-03-02 20:43:00",
+    "closed_date": "2026-03-05 20:43:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Manhattan",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000154",
+    "created_date": "2026-01-26 20:45:00",
+    "closed_date": "2026-02-02 20:45:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000155",
+    "created_date": "2026-01-12 10:50:00",
+    "closed_date": "2026-01-16 10:50:00",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Queens",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000156",
+    "created_date": "2026-02-07 07:33:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000157",
+    "created_date": "2026-01-21 19:55:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000158",
+    "created_date": "2026-02-06 07:29:00",
+    "closed_date": "2026-02-13 07:29:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Manhattan",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000159",
+    "created_date": "2026-03-15 21:34:00",
+    "closed_date": "2026-03-16 21:34:00",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000160",
+    "created_date": "2026-03-18 20:27:00",
+    "closed_date": "2026-03-25 20:27:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Brooklyn",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000161",
+    "created_date": "2026-05-04 03:15:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000162",
+    "created_date": "2026-06-29 09:01:00",
+    "closed_date": "",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Blocked Hydrant",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000163",
+    "created_date": "2026-06-25 23:03:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Queens",
+    "agency": "DSNY",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000164",
+    "created_date": "2026-06-05 11:14:00",
+    "closed_date": "2026-06-14 11:14:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000165",
+    "created_date": "2026-06-10 20:02:00",
+    "closed_date": "2026-06-22 20:02:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Manhattan",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000166",
+    "created_date": "2026-04-04 23:08:00",
+    "closed_date": "2026-04-18 23:08:00",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Queens",
+    "agency": "DSNY",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000167",
+    "created_date": "2026-02-14 06:08:00",
+    "closed_date": "",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000168",
+    "created_date": "2026-03-11 05:16:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000169",
+    "created_date": "2026-04-30 02:09:00",
+    "closed_date": "2026-05-13 02:09:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Bronx",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000170",
+    "created_date": "2026-04-04 02:50:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Rat Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000171",
+    "created_date": "2026-02-01 14:23:00",
+    "closed_date": "2026-02-10 14:23:00",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Queens",
+    "agency": "DOHMH",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000172",
+    "created_date": "2026-06-22 07:30:00",
+    "closed_date": "2026-07-01 07:30:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Queens",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000173",
+    "created_date": "2026-02-26 20:04:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Bronx",
+    "agency": "DSNY",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000174",
+    "created_date": "2026-02-05 01:02:00",
+    "closed_date": "2026-02-12 01:02:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Heat",
+    "borough": "Manhattan",
+    "agency": "HPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000175",
+    "created_date": "2026-05-18 04:24:00",
+    "closed_date": "",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Staten Island",
+    "agency": "DOT",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000176",
+    "created_date": "2026-05-31 23:46:00",
+    "closed_date": "2026-06-14 23:46:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000177",
+    "created_date": "2026-06-07 13:17:00",
+    "closed_date": "2026-06-18 13:17:00",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Brooklyn",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000178",
+    "created_date": "2026-04-24 07:54:00",
+    "closed_date": "2026-04-25 07:54:00",
+    "complaint_type": "Water System",
+    "descriptor": "Water Leak",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000179",
+    "created_date": "2026-01-16 12:17:00",
+    "closed_date": "2026-01-17 12:17:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000180",
+    "created_date": "2026-06-14 20:38:00",
+    "closed_date": "2026-06-14 20:38:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Cave-in",
+    "borough": "Brooklyn",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000181",
+    "created_date": "2026-05-25 06:04:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Staten Island",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000182",
+    "created_date": "2026-03-01 10:49:00",
+    "closed_date": "2026-03-13 10:49:00",
+    "complaint_type": "Street Condition",
+    "descriptor": "Failed Street Repair",
+    "borough": "Manhattan",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000183",
+    "created_date": "2026-02-07 04:34:00",
+    "closed_date": "2026-02-19 04:34:00",
+    "complaint_type": "Illegal Parking",
+    "descriptor": "Double Parked",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000184",
+    "created_date": "2026-02-03 00:22:00",
+    "closed_date": "2026-02-12 00:22:00",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000185",
+    "created_date": "2026-03-09 01:08:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000186",
+    "created_date": "2026-04-25 11:32:00",
+    "closed_date": "",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000187",
+    "created_date": "2026-02-26 19:02:00",
+    "closed_date": "",
+    "complaint_type": "Rodent",
+    "descriptor": "Mouse Sighting",
+    "borough": "Bronx",
+    "agency": "DOHMH",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000188",
+    "created_date": "2026-01-16 15:54:00",
+    "closed_date": "",
+    "complaint_type": "Noise",
+    "descriptor": "Construction Noise",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Open"
+  },
+  {
+    "unique_key": "10000189",
+    "created_date": "2026-04-24 02:57:00",
+    "closed_date": "2026-04-29 02:57:00",
+    "complaint_type": "Water System",
+    "descriptor": "Low Water Pressure",
+    "borough": "Manhattan",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000190",
+    "created_date": "2026-03-12 19:40:00",
+    "closed_date": "",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Partially Blocked Driveway",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000191",
+    "created_date": "2026-05-16 09:29:00",
+    "closed_date": "",
+    "complaint_type": "Missed Collection",
+    "descriptor": "Missed Trash Collection",
+    "borough": "Manhattan",
+    "agency": "DSNY",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000192",
+    "created_date": "2026-06-17 20:56:00",
+    "closed_date": "",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "Apartment Too Cold",
+    "borough": "Brooklyn",
+    "agency": "HPD",
+    "status": "In Progress"
+  },
+  {
+    "unique_key": "10000193",
+    "created_date": "2026-04-26 07:26:00",
+    "closed_date": "2026-05-09 07:26:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Bronx",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000194",
+    "created_date": "2026-01-25 10:27:00",
+    "closed_date": "2026-02-04 10:27:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Sewer Backup",
+    "borough": "Queens",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000195",
+    "created_date": "2026-06-25 15:04:00",
+    "closed_date": "2026-07-08 15:04:00",
+    "complaint_type": "Blocked Driveway",
+    "descriptor": "Blocked Driveway - No Access",
+    "borough": "Manhattan",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000196",
+    "created_date": "2026-01-25 23:47:00",
+    "closed_date": "2026-02-06 23:47:00",
+    "complaint_type": "Sewer",
+    "descriptor": "Catch Basin Clogged",
+    "borough": "Staten Island",
+    "agency": "DEP",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000197",
+    "created_date": "2026-05-31 17:35:00",
+    "closed_date": "2026-06-10 17:35:00",
+    "complaint_type": "Noise",
+    "descriptor": "Loud Music/Party",
+    "borough": "Bronx",
+    "agency": "NYPD",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000198",
+    "created_date": "2026-06-20 13:55:00",
+    "closed_date": "2026-06-24 13:55:00",
+    "complaint_type": "Street Light Condition",
+    "descriptor": "Street Light Cycling",
+    "borough": "Queens",
+    "agency": "DOT",
+    "status": "Closed"
+  },
+  {
+    "unique_key": "10000199",
+    "created_date": "2026-05-28 16:13:00",
+    "closed_date": "2026-06-07 16:13:00",
+    "complaint_type": "Heat/Hot Water",
+    "descriptor": "No Hot Water",
+    "borough": "Brooklyn",
+    "agency": "HPD",
+    "status": "Closed"
+  }
+]
