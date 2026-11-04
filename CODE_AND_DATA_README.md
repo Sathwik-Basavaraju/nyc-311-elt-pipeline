@@ -68,3 +68,10 @@ python3 analysis/dashboard_charts.py
 To turn this into a real cloud pipeline, you would need to provision
 Lambda, S3, Snowflake/Snowpipe, dbt and Airflow yourself and point them
 at real (authorised) 311 data — none of that is deployed by this code.
+
+## Alignment update — 2026-11-04 review
+New files added in this review, to align the repo with the LinkedIn tech list:
+- `dbt/dbt_project.yml`, `dbt/models/stg_311.sql`, `dbt/models/mart_311_by_borough.sql`, `dbt/models/schema.yml` — dbt project/models/tests (example tests only, not 40).
+- `sql/snowpipe_setup.sql` — Snowflake stage/pipe example for S3 -> Snowpipe loading.
+- `data/sample_311_requests.json` — first 200 sample records as JSON, matching the README's "raw JSON in S3" description; the full sample is still the CSV.
+See ALIGNMENT.md for the full claim-to-file mapping.
