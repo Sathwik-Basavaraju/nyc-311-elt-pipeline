@@ -1,0 +1,10 @@
+name: nyc_311_elt
+version: 1.0.0
+config-version: 2
+profile: nyc_311_elt
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+models:
+  nyc_311_elt:
+    +materialized: table
